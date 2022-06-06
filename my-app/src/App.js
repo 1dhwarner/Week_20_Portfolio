@@ -1,12 +1,11 @@
 import './App.css';
 import Nav from './compenents/Nav';
-import Header from '.components/header/Header';
+import Header from './compenents/header/Header';
 import AboutMe from './compenents/AboutMe';
 import ResumeDownload from './compenents/resume-download/ResumeDownload';
-import Projects from './components/projects/Projects';
+import Projects from './compenents/projects/Projects';
+import ContactMe from './compenents/ContactMe';
 import Footer from './compenents/Footer';
-import "bootstrap/dist/css/bootstrap.min.css";
-
 
 function App() {
   return (
@@ -16,6 +15,7 @@ function App() {
       <AboutMe />
       <ResumeDownload />
       <Projects />
+      <ContactMe />
       <Footer />
 
     </div>

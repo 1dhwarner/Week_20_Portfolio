@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer>
+        <footer id="contact-info">
             <div class="container contact text-center text-lg-start">
                 <a href="https://www.linkedin.com/in/david-warner1/">
                     LinkedIn Profile
