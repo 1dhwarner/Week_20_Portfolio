@@ -12,9 +12,7 @@ const Footer = () => {
                     GitHub Profile
                 </a>
                 <br></br>
-                <text>
-                    email: david.hans.warner@gmail.com
-                </text>
+                <a href="mailto:david.hans.warner@gmail.com<?subject = Contact = Message">david.hans.warner@gmail.com</a>
             </div>
         </footer>
     );
